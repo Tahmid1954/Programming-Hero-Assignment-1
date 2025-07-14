@@ -219,7 +219,6 @@ nav {
 .review-box {
   display: flex;
   justify-content: center;
-  /* flex-wrap: wrap; */
   gap: 20px;
 }
 
@@ -280,7 +279,6 @@ nav {
  .form-title {
     font-size: 70px;
     font-weight: 700;
-    /* text-align: left; */
      /* padding: 80px 0px; */
  }
 
@@ -331,7 +329,6 @@ textarea {
 footer {
   text-align: center;
   padding: 30px 100px 150px;
-
   background-color: white;
 }
 

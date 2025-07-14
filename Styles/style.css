@@ -189,15 +189,15 @@ nav {
 
 .box-title {
     text-align: center;
-    font-size: 33px;
+    font-size: 32px;
     font-weight: 700;
     margin-bottom: 20px;
 }
 
 .boxes {
      display: flex;
-     gap: 110px;
-     justify-content: center;
+     gap: 80px;
+     justify-content: space-around;
   
 }
 

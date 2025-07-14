@@ -196,7 +196,7 @@ nav {
 
 .boxes {
      display: flex;
-     gap: 120px;
+     gap: 100px;
      justify-content: center;
   
 }

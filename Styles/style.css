@@ -189,14 +189,14 @@ nav {
 
 .box-title {
     text-align: center;
-    font-size: 32px;
+    font-size: 31px;
     font-weight: 700;
     margin-bottom: 20px;
 }
 
 .boxes {
      display: flex;
-     gap: 80px;
+     /* gap: 80px; */
      justify-content: space-around;
   
 }
